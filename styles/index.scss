@@ -1,0 +1,21 @@
+@charset "UTF-8";
+@import 'reset';
+@import 'fonts';
+@import 'utils';
+
+html {
+    background-color: #d9e7cb;
+    line-height: 1.5;
+    opacity: 0.85;
+    font-family: 'Noto Sans Display', sans-serif;
+
+}
+
+pre, code {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.main-width {
+  max-width: 90ch;
+  margin: 0 auto;
+}
