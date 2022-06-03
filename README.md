@@ -1,3 +1,7 @@
+# A Next.js starter project, 
+
+I've used the Next.js blog starter as a basis ⇊⇊⇊
+
 # A statically generated blog example using Next.js, Markdown, and TypeScript
 
 This is the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript.
